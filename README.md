@@ -5,11 +5,8 @@
 
 
 
-Identifying emotions and expression of people.
+Identifying emotions and expression of people, using images.
 This dataset has 7 emotions.
 
-
-Steps - Since we have an imbalanced dataset we used image data augmentation in order to improve the imbalance.
-
-The repository contains 3 exploratory notebooks and a .py file that we used for production.
-
+A link to the original dataset - 
+https://www.kaggle.com/deadskull7/fer2013/notebooks
