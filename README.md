@@ -26,7 +26,7 @@ In the fer_'preprocess_augment_balance.ipynb' you can find the code that we used
 
 
 
-**EDA and ML modeling
+**EDA and ML modeling**
 
 We visualized the data using non-linear dimensionality techniques, such as Isomap and t-SNE, and we tested various ML models.
 
@@ -35,6 +35,7 @@ In 'Exploration_ml.ipynb' and 'MP_fer_basic_ml.ipynb' you can find the  EDA and 
 
 
 **Neural Network Modeling**
+
 We built CNN models and we also tested VGG-16 on our data. We also saved the best model(h5) and saved it here. 
 
 In 'mp_fer_nns.ipynb' you can find the NN models we used.
