@@ -1,7 +1,7 @@
 # Image-expression-recognition
 
 
-**Contirbuiters: Mariia Padalko and Dror Rosentraub.**
+**Contributers: Mariia Padalko and Dror Rosentraub.**
 
 
 
